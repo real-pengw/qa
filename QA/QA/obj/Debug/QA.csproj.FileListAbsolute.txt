@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\QA\QA\bin\Debug\QA.exe.config
+C:\Users\user\source\repos\QA\QA\bin\Debug\QA.exe
+C:\Users\user\source\repos\QA\QA\bin\Debug\QA.pdb
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.Form1.resources
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.Properties.Resources.resources
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.exe
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.pdb
+C:\Users\user\source\repos\QA\QA\obj\Debug\QA.exe.config
